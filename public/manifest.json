@@ -1,6 +1,6 @@
 {
-  "name": "Mi Día",
-  "short_name": "Mi Día",
+  "name": "Daily Plan",
+  "short_name": "Daily Plan",
   "description": "Personal life planner",
   "start_url": "/",
   "display": "standalone",
