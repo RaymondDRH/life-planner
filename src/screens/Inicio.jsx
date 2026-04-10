@@ -274,7 +274,7 @@ export default function Inicio({ completions, toggleItem, onGotoChecklist, onGot
           </svg>
         </div>
         <div style={{flex:1}}>
-          <p style={{fontSize:14,fontWeight:700,marginBottom:2}}>GoTrade</p>
+          <p style={{fontSize:14,fontWeight:700,marginBottom:2,color:'var(--text-1)'}}>GoTrade</p>
           <p className="t-body" style={{fontSize:11}}>Identificador de estrategias de opciones</p>
         </div>
         <span style={{fontSize:11,fontWeight:700,color:'var(--green)'}}>Abrir →</span>
