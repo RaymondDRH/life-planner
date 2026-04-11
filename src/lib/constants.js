@@ -302,13 +302,14 @@ export const WEEKLY_GYM = [
 // PODCASTS
 // ─────────────────────────────────────────────────────────
 export const PODCASTS = [
-  { name: 'Aprendamos Marketing',       category: 'Marketing',           url: 'https://open.spotify.com/show/1Dk6u7ajcSr5MQkGMg9qtR', emoji: '📣' },
-  { name: 'Mercado De Opciones',        category: 'Mercado de opciones', url: 'https://open.spotify.com/show/0uhyLmXinrLIvkOcz7x71y', emoji: '📈' },
-  { name: 'Venta Perfecta Podcast',     category: 'Ventas',              url: 'https://open.spotify.com/show/69oO7YvlRQxDa1tj6RhdSY', emoji: '🎯' },
-  { name: 'The Options Insider Radio',  category: 'Trading (EN)',         url: 'https://open.spotify.com/show/6RyF1eL9umLDkkApVl8Fdu', emoji: '📊' },
-  { name: 'El Podcast de Emprendedores',category: 'Emprendimiento',       url: 'https://open.spotify.com/show/0M4dhzdDNRe0qOggBLkgsO', emoji: '🚀' },
-  { name: 'Serious Sellers Podcast',    category: 'Amazon FBA (EN)',      url: 'https://open.spotify.com/show/31CTCHQGSghLavsf0otYQq', emoji: '📦' },
-  { name: 'Pastora Yesenia Then',       category: 'Fe y Espiritualidad',  url: 'https://open.spotify.com/show/47SvLma45kOiCjWgO25eRU', emoji: '✝️' },
+  { name: 'Vilma OS',                          category: 'Marketing Digital',   url: 'https://open.spotify.com/show/0GejOPh15VUdbxgD1panVL', emoji: '📣' },
+  { name: 'Stock Market Options Trading',       category: 'Trading opciones (EN)',url: 'https://open.spotify.com/show/3s4Y0OZIZMH0vyKbDiciu3', emoji: '📈' },
+  { name: 'Serious Sellers en Español',         category: 'Amazon FBA',          url: 'https://open.spotify.com/show/2XcEJPpHOk7h1j0BqTncXr', emoji: '🛒' },
+  { name: 'The Options Insider Radio',          category: 'Trading opciones (EN)',url: 'https://open.spotify.com/show/6RyF1eL9umLDkkApVl8Fdu', emoji: '📊' },
+  { name: 'Emprendeduros',                      category: 'Emprendimiento',       url: 'https://open.spotify.com/show/6rOWpOXqFl9duQ43v1SsLz', emoji: '🚀' },
+  { name: 'Serious Sellers Podcast',            category: 'Amazon FBA (EN)',      url: 'https://open.spotify.com/show/31CTCHQGSghLavsf0otYQq', emoji: '📦' },
+  { name: 'Pastora Yesenia Then',               category: 'Fe y Espiritualidad',  url: 'https://open.spotify.com/show/47SvLma45kOiCjWgO25eRU', emoji: '✝️' },
+  { name: 'Itnig: Historias de Startups',       category: 'Startups & IA',        url: 'https://open.spotify.com/show/75ao7vbM0cH7SKIsyYN3iZ', emoji: '💡' },
 ]
 
 // Rota por día del año — cambia cada día y nunca es el mismo dos días seguidos
